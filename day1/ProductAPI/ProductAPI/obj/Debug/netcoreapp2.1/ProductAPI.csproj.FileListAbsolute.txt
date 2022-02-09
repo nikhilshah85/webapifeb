@@ -1,0 +1,13 @@
+C:\Users\Nikhilshah\Desktop\Feb - ASP.Net Web API\day1\ProductAPI\ProductAPI\bin\Debug\netcoreapp2.1\ProductAPI.deps.json
+C:\Users\Nikhilshah\Desktop\Feb - ASP.Net Web API\day1\ProductAPI\ProductAPI\bin\Debug\netcoreapp2.1\ProductAPI.runtimeconfig.json
+C:\Users\Nikhilshah\Desktop\Feb - ASP.Net Web API\day1\ProductAPI\ProductAPI\bin\Debug\netcoreapp2.1\ProductAPI.runtimeconfig.dev.json
+C:\Users\Nikhilshah\Desktop\Feb - ASP.Net Web API\day1\ProductAPI\ProductAPI\bin\Debug\netcoreapp2.1\ProductAPI.dll
+C:\Users\Nikhilshah\Desktop\Feb - ASP.Net Web API\day1\ProductAPI\ProductAPI\obj\Debug\netcoreapp2.1\ProductAPI.csproj.CoreCompileInputs.cache
+C:\Users\Nikhilshah\Desktop\Feb - ASP.Net Web API\day1\ProductAPI\ProductAPI\obj\Debug\netcoreapp2.1\ProductAPI.RazorAssemblyInfo.cache
+C:\Users\Nikhilshah\Desktop\Feb - ASP.Net Web API\day1\ProductAPI\ProductAPI\obj\Debug\netcoreapp2.1\ProductAPI.RazorAssemblyInfo.cs
+C:\Users\Nikhilshah\Desktop\Feb - ASP.Net Web API\day1\ProductAPI\ProductAPI\obj\Debug\netcoreapp2.1\ProductAPI.AssemblyInfoInputs.cache
+C:\Users\Nikhilshah\Desktop\Feb - ASP.Net Web API\day1\ProductAPI\ProductAPI\obj\Debug\netcoreapp2.1\ProductAPI.AssemblyInfo.cs
+C:\Users\Nikhilshah\Desktop\Feb - ASP.Net Web API\day1\ProductAPI\ProductAPI\obj\Debug\netcoreapp2.1\ProductAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Nikhilshah\Desktop\Feb - ASP.Net Web API\day1\ProductAPI\ProductAPI\bin\Debug\netcoreapp2.1\ProductAPI.pdb
+C:\Users\Nikhilshah\Desktop\Feb - ASP.Net Web API\day1\ProductAPI\ProductAPI\obj\Debug\netcoreapp2.1\ProductAPI.dll
+C:\Users\Nikhilshah\Desktop\Feb - ASP.Net Web API\day1\ProductAPI\ProductAPI\obj\Debug\netcoreapp2.1\ProductAPI.pdb
